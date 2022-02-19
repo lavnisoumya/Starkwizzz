@@ -1,0 +1,16 @@
+.container{
+  height: 1100px;
+  margin: 30px;
+  display: flex;
+  background-color: black;
+
+
+
+
+}
+p{
+  color: white;
+}
+h1{
+  color:white;
+}

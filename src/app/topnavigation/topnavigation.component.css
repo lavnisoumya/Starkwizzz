@@ -1,0 +1,36 @@
+@media only screen and (max-width: 600px) {
+.topnavigation{
+
+  background-color: black;
+  width: 100%;
+  height: 50px;
+}
+ul {
+  list-style-type: none;
+
+  justify-content: center;
+
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li p{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+}

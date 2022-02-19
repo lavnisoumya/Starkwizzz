@@ -1,0 +1,15 @@
+.subandplans{
+  margin-top: 40px;
+  height: 200px;
+  width: 100%;
+  background-color: black;
+}
+p{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  display: block;
+  padding: 30px;
+ }

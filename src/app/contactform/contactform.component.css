@@ -1,0 +1,15 @@
+
+  .container{
+  height:140px;
+  width: 100%;
+  background-image:linear-gradient(to bottom right,rgb(54, 157, 236,1),cyan);
+  margin-top: 40px;
+  margin-left: 2%;
+}
+ p{
+  color: white;
+  font-weight: bold;
+  margin-left: 40%;
+  font-size: 25px;
+  margin-top: 60px;
+}

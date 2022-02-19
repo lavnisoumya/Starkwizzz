@@ -1,0 +1,13 @@
+
+  .container{
+  height:140px;
+  background-image:linear-gradient(to bottom right,rgba(54, 157, 236,1),cyan);
+  margin-top: 40px;
+}
+ p{
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 60px;
+}

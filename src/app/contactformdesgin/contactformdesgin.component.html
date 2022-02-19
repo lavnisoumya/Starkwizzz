@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="col">
+ <p style="color:white;font-size:30px;font-weight:bold">Ready to get Started?</p>
+ <p style="color:white;">Required fields are marked*</p>
+   <form >
+   <input type="text" placeholder="Name">
+    <input type="text" placeholder="Email">
+     <input type="text" placeholder="Phoneno">
+      <input type="text" placeholder="Query">
+      <input type="checkbox"   id = "terms" style="margin-left:20%"  required > <label  style="margin-left:5%;"for="terms">Accept <a href="#">terms</a> and
+      <a href="#"> Privacy policy</a></label>
+
+
+   </form>
+    <button class="btn btn-primary"
+      [disabled] = "!formchecked"
+     type="submit">Sumbit</button>
+  </div>
+</div>

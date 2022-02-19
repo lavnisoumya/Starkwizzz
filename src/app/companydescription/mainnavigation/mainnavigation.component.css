@@ -1,0 +1,25 @@
+.nav{
+  margin-right: 30px;
+  height: auto;
+  font-size: 17px;
+  font-weight: bold;
+  position:fixed;
+  left: 50%;
+
+
+
+
+
+}
+.btn{
+  color:white;
+}
+.li{
+  color: white;
+}
+a{
+  color:white;
+}
+img{
+  height: 200px;
+}

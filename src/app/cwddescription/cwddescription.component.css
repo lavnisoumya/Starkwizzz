@@ -1,0 +1,25 @@
+
+.cwddescription{
+height: 400px;
+background-image: linear-gradient(to bottom right , rgba(0,0,0,1) , rgba(0,0,0,0) );
+width: 100%;
+
+
+}
+p{
+  color: white;
+  text-align:center;
+  font-size:25px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.cwddescriptionsecond p{
+  color: white;
+  text-align:center;
+  font-style: italic;
+}
+button{
+  left: 40%;
+  position: absolute;
+  margin-top: 50px;
+}
